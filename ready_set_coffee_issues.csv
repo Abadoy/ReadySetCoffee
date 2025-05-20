@@ -1,44 +1,8 @@
 Title,Body,Labels
 US1: User Registration and Login,"As a user, I want to create an account so I can save my coffee preferences and order easily.
-
-**Tasks:**
-- Create registration form
-- Implement Firebase/Auth0 integration
-- Add form validation
-- Redirect to home screen after login","user story,sprint:1,priority:high"
 US2: Save Coffee Preferences,"As a user, I want to save my coffee preferences so I can order quickly without setting them every time.
-
-**Tasks:**
-- Design coffee preference form
-- Implement UI logic to capture preferences
-- Store preferences using Firebase or local storage","user story,sprint:1,priority:high"
 US3: Coffee Price Comparison,"As a user, I want to compare prices for the same coffee order across different shops nearby.
-
-**Tasks:**
-- Design comparison UI
-- Implement logic to fetch shop data (mock or live)
-- Display sorted price list","user story,sprint:2,priority:high"
 US4: Place Coffee Order,"As a user, I want to place a coffee order directly from the app with one tap.
-
-**Tasks:**
-- Build order confirmation screen
-- Connect to ordering API (mock or real)
-- Show order success message","user story,sprint:2,priority:high"
 US5: Select Payment Method,"As a user, I want to select and save a payment method to complete orders.
-
-**Tasks:**
-- Add payment method selection UI
-- Store payment option (mock or real)
-- Ensure secure handling of payment data","user story,sprint:3,priority:medium"
 US6: View Order History,"As a user, I want to see my past orders for reference.
-
-**Tasks:**
-- Create order history screen
-- Fetch data from backend (or mock)
-- Enable repeat order from history","user story,sprint:3,priority:low"
 US7: Simple and Accessible UI,"As a user, I want a clean and accessible interface that is easy to use.
-
-**Tasks:**
-- Apply consistent layout and styling
-- Add accessibility features
-- Conduct basic usability testing","user story,sprint:all,priority:medium"
